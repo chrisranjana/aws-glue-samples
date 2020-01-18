@@ -4,6 +4,9 @@ This repository has samples that demonstrate various aspects of the new
 [AWS Glue](https://aws.amazon.com/glue) service, as well as various
 AWS Glue utilities.
 
+[AWS Glue Developers | Redshift Developers | ETL developers](https://www.chrisranjana.com/redshift-postgres-datatransfer.html)
+
+
 You can find the AWS Glue open-source Python libraries in a separate
 repository at: [awslabs/aws-glue-libs](https://github.com/awslabs/aws-glue-libs).
 
